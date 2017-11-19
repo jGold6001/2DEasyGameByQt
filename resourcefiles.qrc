@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>sounds/shoot.mp3</file>
+        <file>sounds/boom.mp3</file>
+        <file>sounds/bg.mp3</file>
+        <file>sounds/damage.wav</file>
+        <file>sounds/laser.wav</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>images/bg.jpg</file>
+        <file>images/car1.png</file>
+        <file>images/car2.png</file>
+        <file>images/laser.png</file>
+        <file>images/exp-1.png</file>
+        <file>images/exp-2.png</file>
+        <file>images/exp-3.png</file>
+        <file>images/exp-4.png</file>
+        <file>images/exp-5.png</file>
+    </qresource>
+</RCC>
